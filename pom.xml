@@ -129,7 +129,6 @@
 
     <modules>
         <module>protocol-mapper</module>
-        <module>data-setup</module>
     </modules>
 
 </project>

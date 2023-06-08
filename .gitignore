@@ -25,3 +25,5 @@ dist/
 nbdist/
 .nb-gradle/
 
+data/import/myrealm.json
+set-env.sh
